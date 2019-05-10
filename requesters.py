@@ -5,6 +5,7 @@ import re
 base_url = 'http://www.mafengwo.cn'
 suzhou_url = 'http://www.mafengwo.cn/mdd/cityroute/10207_254.html'
 nanjing_url = 'http://www.mafengwo.cn/mdd/cityroute/10684_122.html'
+
 headers = {
     "Host" : "www.mafengwo.cn",
     "Connection" : "keep-alive",
